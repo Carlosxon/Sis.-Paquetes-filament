@@ -1,0 +1,16 @@
+Colocar metodos de entrega en que sucursal se entrega
+que el repartidor al entregar se ubique en la sucursal y el departamento en el que esta ubicado para no cometer el error de colocar itra ubicacion
+colocar tipos de paquetes si es sobr, caja, tonel etc.
+metodos de pago
+tipos de envio si es por cobrar o ya esta pagado que aparesca el estado si es por cobrar que aparesca en el envio
+porder imprimir la guia con los datos de envio
+fecha de ingreso en el pedido
+crear departamento con un boton dentro de paquetes de igual manera en envios un boton para crear cliente
+colocar el numero de telefono del cliente
+meto de envio debe ser vehiculos, capacidad de carga
+Dasbord
+que rutas tiene el vehiculo por dia
+ver que dias hay hay rutas 
+el repartidor:
+aplicacion del panel del trasportista
+debe ingresar a la aplicacion y actualizar los estados segun su sucursal o deparatamente en que se encutre en ruta
